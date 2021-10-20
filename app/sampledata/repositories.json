@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 413486192,
+      "name": "OrganizzeAppCloneKotlin",
+      "owner": {
+        "login": "adalbertobengaly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78058580?v=4"
+      },
+      "html_url": "https://github.com/adalbertobengaly/OrganizzeAppCloneKotlin",
+      "description": "Organizze App Clone com Kotlin e Firebase",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 368949088,
+      "name": "CampoMinadoWithKotlin",
+      "owner": {
+        "login": "adalbertobengaly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78058580?v=4"
+      },
+      "html_url": "https://github.com/adalbertobengaly/CampoMinadoWithKotlin",
+      "description": "Projeto de jogo proposto pelo curso Fundamentos de programação moderna com Kotlin",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 416520638,
+      "name": "InterBussinesCard",
+      "owner": {
+        "login": "adalbertobengaly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78058580?v=4"
+      },
+      "html_url": "https://github.com/adalbertobengaly/InterBussinesCard",
+      "description": "App desenvolvido no Bootcamp Inter Android Developer",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 372662106,
+      "name": "Calculadora-de-notas",
+      "owner": {
+        "login": "adalbertobengaly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78058580?v=4"
+      },
+      "html_url": "https://github.com/adalbertobengaly/Calculadora-de-notas",
+      "description": "App desenvolvido para cálculo de notas da faculdade",
+      "stargazers_count": 2,
+      "language": "Kotlin"
+    },
+    {
+      "id": 340526332,
+      "name": "Maratona-Discover",
+      "owner": {
+        "login": "adalbertobengaly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78058580?v=4"
+      },
+      "html_url": "https://github.com/adalbertobengaly/Maratona-Discover",
+      "description": "App de finanças elaborado durante a maratona Discover da Rocketseat",
+      "stargazers_count": 0,
+      "language": "JavaScript"
+    },
+    {
+      "id": 371832149,
+      "name": "SatanderDevWeekMobile",
+      "owner": {
+        "login": "adalbertobengaly",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78058580?v=4"
+      },
+      "html_url": "https://github.com/adalbertobengaly/SatanderDevWeekMobile",
+      "description": "Projeto desenvolvido na trilha mobile com Kotlin da Santander Dev Week",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    }
+  ]
+}
